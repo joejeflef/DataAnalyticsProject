@@ -1,2 +1,2 @@
 # DataAnalyticsProject
-A data analytics project WSUV
+A data analytics project for WSUV
