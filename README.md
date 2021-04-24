@@ -1,4 +1,4 @@
-# A Comparison of Housing Prices vs. Income in Washington Countys from 2008 and 2019
+# A Comparison of Housing Prices vs. Income in Washington Counties from 2008 and 2019
 A data analytics project for WSUV.
 
 Motivation:
