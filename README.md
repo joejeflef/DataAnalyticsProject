@@ -6,3 +6,5 @@ A data analytics project for WSUV.
 <img src="https://github.com/joejeflef/DataAnalyticsProject/blob/main/2019MedianHousePricevsMedianIncome.PNG">
 
 <img src="https://github.com/joejeflef/DataAnalyticsProject/blob/main/2008MedianIncomeHistogram.PNG">
+
+<img src="https://github.com/joejeflef/DataAnalyticsProject/blob/main/2019MedianIncomeHistogram.PNG">
